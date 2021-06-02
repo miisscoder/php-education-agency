@@ -2,28 +2,23 @@
 php-education-agency
 
 ### Description
-education-agency
+Education Agency Website 
+
 ## Prerequisites
-1. Node 4.x
-1. NPM
-1. Grunt
-1. Bower
-1. SASS
+1. php
+2. html
+3. css
+4. js
 
 
 ## Local Deployment
-```bash
-npm start
-```
+link: http://zlgjedu_2021.atomidc.top/
 
 ## Production Build and Installation
-How to build the application for upload to a server
-```bash
-Note: assume it is a dedicated server not AWS or Heroku.
-```
 
 ### Manual Deployment Notes
 
 ## Running Tests
 
 ## Notes
+Source code had been sent to client which refused to put the source code in my github.
