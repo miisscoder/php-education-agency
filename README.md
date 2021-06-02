@@ -14,11 +14,6 @@ Education Agency Website
 ## Local Deployment
 link: http://zlgjedu_2021.atomidc.top/
 
-## Production Build and Installation
-
-### Manual Deployment Notes
-
-## Running Tests
 
 ## Notes
 Source code had been sent to client which refused to put the source code in my github.
